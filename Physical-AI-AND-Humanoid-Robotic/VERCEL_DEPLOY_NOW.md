@@ -11,7 +11,7 @@
 1. You'll see "Import Git Repository"
 2. Click **"Import"** next to your repository:
    ```
-   Mohsinraza23/-Physical-AI-Humanoid-Robotics-Essentials
+   https://github.com/Diya-14/My-First-AI-Book/tree/main/Physical-AI-AND-Humanoid-Robotic
    ```
 3. If you don't see it, click **"Add GitHub Account"** or **"Configure GitHub App"** and authorize Vercel to access your repositories
 
@@ -33,7 +33,7 @@ Vercel will automatically detect your `vercel.json` configuration. You should se
 ### Step 5: Your Site is Live! 🎉
 Once deployment completes, you'll see:
 - ✅ Deployment successful
-- 🌐 Your live URL: `https://Physical-AI-AND-Humanoid-Robotic.vercel.app`
+- 🌐 Your live URL: `https://my-first-ai-book-eq7e.vercel.app/`
 - 📊 Deployment details and build logs
 
 ---
@@ -86,14 +86,14 @@ If you prefer continuous deployment (auto-deploy on every push):
 Once deployed, you'll have:
 
 1. **Production URL**:
-   - `https://Physical-AI-AND-Humanoid-Robotic.vercel.app`
+   - `https://my-first-ai-book-eq7e.vercel.app/`
    - or your custom domain if you add one
 
 2. **GitHub Repository**:
-   - https://github.com/Mohsinraza23/-Physical-AI-Humanoid-Robotics-Essentials
+   - https://github.com/Diya-14/My-First-AI-Book/tree/main/Physical-AI-AND-Humanoid-Robotic
 
 3. **Vercel Dashboard**:
-   - https://vercel.com/mohsins-projects-2431842a
+   - https://my-first-ai-book-eq7e.vercel.app/
 
 ---
 

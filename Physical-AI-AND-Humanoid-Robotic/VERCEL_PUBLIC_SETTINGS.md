@@ -69,7 +69,7 @@ Anyone can:
 
 ## 🔍 Check Current Deployment Status
 
-1. Go to: https://vercel.com/diya-projects-2431842a
+1. Go to: https://vercel.com/diya-iqbals-projects
 2. Look at "Deployments" section
 3. Latest deployment should show:
    - ⏳ Building... (wait)
