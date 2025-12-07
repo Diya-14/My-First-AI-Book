@@ -5,14 +5,14 @@
 ### Option 1: Deploy via Vercel Dashboard (Recommended - 5 minutes)
 
 1. **Go to your Vercel dashboard**
-   - Visit: https://vercel.com/mohsins-projects-2431842a
+   - Visit: https://vercel.com/diya-projects-2431842a
    - Make sure you're logged in
 
 2. **Import your GitHub repository**
    - Click "Add New..." → "Project"
    - Click "Import Git Repository"
    - If prompted, authorize Vercel to access your GitHub account
-   - Find and select: `Mohsinraza23/-Physical-AI-Humanoid-Robotics-Essentials`
+   - Find and select: `Diya-14/-My-First-AI-Book/tree/main/Physical-AI-AND-Humanoid-Robotic`
    - Click "Import"
 
 3. **Configure the project**
@@ -32,7 +32,7 @@
 5. **Deploy**
    - Click "Deploy"
    - Wait 2-3 minutes for build to complete
-   - Your site will be live at: `https://physical-ai-humanoid-robotics-essentials.vercel.app`
+   - Your site will be live at: `https://Physical-AI-AND-Humanoid-Robotic.vercel.app`
 
 ---
 
@@ -59,7 +59,7 @@
      - Set up and deploy? **Y**
      - Which scope? Select your account
      - Link to existing project? **N** (first time)
-     - Project name: `physical-ai-humanoid-robotics-essentials`
+     - Project name: `Physical-AI-AND-Humanoid-Robotic`
      - Directory: `.` (current directory)
 
 4. **Production deployment**
@@ -168,7 +168,7 @@ After successful deployment:
 ## Current Status
 
 ✅ **Completed**:
-- Code pushed to GitHub: https://github.com/Mohsinraza23/-Physical-AI-Humanoid-Robotics-Essentials
+- Code pushed to GitHub: https://github.com/Diya-14/My-First-AI-Book/tree/main/Physical-AI-AND-Humanoid-Robotic
 - `vercel.json` configuration created and pushed
 - Beautiful UI with purple gradient design
 - Chatbot UI implemented and tested locally

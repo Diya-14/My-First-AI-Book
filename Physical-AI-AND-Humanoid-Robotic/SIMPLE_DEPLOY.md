@@ -13,7 +13,7 @@
 1. Go to: https://replit.com/
 2. Sign in with GitHub
 3. Click "+" → "Import from GitHub"
-4. Paste: `https://github.com/Mohsinraza23/-Physical-AI-Humanoid-Robotics-Essentials`
+4. Paste: `https://github.com/Diya-14/My-First-AI-Book/tree/main/-Physical-AI-AND-Humanoid-Robotic`
 5. After import, click on `backend/simple_server.py`
 6. Click "Run" button
 7. Copy the URL from top of page (looks like: `https://....repl.co`)

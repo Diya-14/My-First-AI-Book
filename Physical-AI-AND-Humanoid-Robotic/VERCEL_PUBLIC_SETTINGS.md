@@ -10,7 +10,7 @@ Your site at `https://physical-ai-humanoid-robot-git-07ab2e-mohsins-projects-243
 
 ### Step 1: Check Your Vercel Dashboard
 
-1. Go to: https://vercel.com/mohsins-projects-2431842a
+1. Go to: https://vercel.com/diya-projects-2431842a
 2. Click on your project
 3. Go to **Settings** tab
 4. Scroll to **"Deployment Protection"**
@@ -69,7 +69,7 @@ Anyone can:
 
 ## 🔍 Check Current Deployment Status
 
-1. Go to: https://vercel.com/mohsins-projects-2431842a
+1. Go to: https://vercel.com/diya-projects-2431842a
 2. Look at "Deployments" section
 3. Latest deployment should show:
    - ⏳ Building... (wait)
@@ -82,7 +82,7 @@ Anyone can:
 
 Vercel makes all free deployments public by default. Your site is accessible to everyone right now at:
 
-**https://physical-ai-humanoid-robot-git-07ab2e-mohsins-projects-2431842a.vercel.app/**
+**https://my-first-ai-book.vercel.app/**
 
 Share this URL with anyone and they can access your Physical AI textbook!
 

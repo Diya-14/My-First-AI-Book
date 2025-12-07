@@ -33,7 +33,7 @@ Vercel will automatically detect your `vercel.json` configuration. You should se
 ### Step 5: Your Site is Live! 🎉
 Once deployment completes, you'll see:
 - ✅ Deployment successful
-- 🌐 Your live URL: `https://physical-ai-humanoid-robotics-essentials.vercel.app`
+- 🌐 Your live URL: `https://Physical-AI-AND-Humanoid-Robotic.vercel.app`
 - 📊 Deployment details and build logs
 
 ---
@@ -86,7 +86,7 @@ If you prefer continuous deployment (auto-deploy on every push):
 Once deployed, you'll have:
 
 1. **Production URL**:
-   - `https://physical-ai-humanoid-robotics-essentials.vercel.app`
+   - `https://Physical-AI-AND-Humanoid-Robotic.vercel.app`
    - or your custom domain if you add one
 
 2. **GitHub Repository**:
