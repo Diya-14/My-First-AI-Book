@@ -54,7 +54,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/yourusername/physical-ai-textbook/tree/main/website/',
+            'https://github.com/Diya-14/My-First-AI-Book/tree/main/Physical-AI-AND-Humanoid-Robotic',
         },
         blog: false,
         theme: {
@@ -84,7 +84,7 @@ const config: Config = {
           label: 'Chapters',
         },
         {
-          href: 'https://github.com/yourusername/physical-ai-textbook',
+          href: 'https://github.com/Diya-14/My-First-AI-Book/tree/main/Physical-AI-AND-Humanoid-Robotic',
           label: 'GitHub',
           position: 'right',
         },
@@ -128,7 +128,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/yourusername/physical-ai-textbook',
+              href: 'https://github.com/Diya-14/My-First-AI-Book/tree/main/Physical-AI-AND-Humanoid-Robotic',
             },
           ],
         },
